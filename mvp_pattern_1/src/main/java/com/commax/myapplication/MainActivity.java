@@ -46,6 +46,8 @@ public class MainActivity extends AppCompatActivity implements MainContract.View
 
     }
 
+    //android studio github test
+
     @Override
     public void onDeleteClick(Person person) {
         presenter.removePerson(person);
