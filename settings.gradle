@@ -1,0 +1,9 @@
+include ':mvpDatabinding'
+include ':BaseProject'
+//include ':fragmentmvp'
+include ':mvpfishtracker'
+include ':jxjavalist'
+include ':mvp_pattern_3'
+include ':mvp_pattern_2'
+include ':mvp_pattern_1'
+rootProject.name = "My Application"
